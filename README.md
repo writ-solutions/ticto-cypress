@@ -7,7 +7,7 @@ Para instalar as dependencias:
 npm install
 ```
 
-## Instalando dependencias
+## Iniciando
 Iniciar o projeto:
 
 ```
